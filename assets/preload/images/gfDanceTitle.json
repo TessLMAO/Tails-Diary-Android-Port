@@ -1,10 +1,10 @@
 {	
-	"titlex":-150,
-	"titley":-100,
+	"titlex":50,
+	"titley":40,
 	"startx":100,
-	"starty":576,
-	"gfx":512,
-	"gfy":40,
-	"backgroundSprite":"",
+	"starty":0,
+	"gfx":1000,
+	"gfy":1000,
+	"backgroundSprite":"durera-modified",
 	"bpm":102
 }
